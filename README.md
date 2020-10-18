@@ -1,1 +1,1 @@
-# YouYaps.github.io
+# youyaps.github.io
