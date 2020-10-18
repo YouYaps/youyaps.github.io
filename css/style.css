@@ -1,0 +1,12 @@
+/* ==========================================================================
+TABLE
+========================================================================== */
+table{width:100%}
+table td{border:1px solid rgba(0,0,0,0.12);text-align:left;vertical-align:top;}
+td,th{padding:8px;line-height:1.42857143;vertical-align:top;text-align:left;border:1px solid rgba(0,0,0,0.12)}
+/* TRANSISI */
+a:link, .label-count, #cssmenu ul ul li, #cssmenu > ul > li.has-sub > a::before, #cssmenu ul ul li.has-sub > a::before, .berlangganan-box input.submit-email[type="submit"], .berlangganan-box input.email-address[type="text"] {
+transition: all 0.2s;
+-moz-transition: all 0.2s;
+-webkit-transition: all 0.2s;
+}
